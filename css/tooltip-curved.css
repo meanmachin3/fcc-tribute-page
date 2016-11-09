@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gochi+Hand);
+@import url(https://fonts.googleapis.com/css?family=Gochi+Hand);
 .tooltip {
 	position: absolute;
 	z-index: 999;
@@ -63,7 +63,7 @@
 	position: absolute;
 	background: #e35583;
 	z-index: 9999;
-	width: 200px;
+	width: 150px;
 	bottom: 50%;
 	margin-bottom: -1em;
 	padding: 20px;
